@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MakeManifest": {
+      "commandName": "Project",
+      "commandLineArgs": "ShellExtensionX64.dll",
+      "workingDirectory": "R:\\MakeManifest\\MakeManifest\\bin\\Debug"
+    }
+  }
+}
